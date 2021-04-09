@@ -31,7 +31,7 @@
   "author": "Premshree Pillai",
   "license": "ISC",
   "peerDependencies": {
-    "react": "^16.13.1"
+    "react": ">= 16.13.1"
   },
   "devDependencies": {
     "@types/react": "^16.9.36",
